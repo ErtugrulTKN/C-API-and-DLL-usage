@@ -1,0 +1,40 @@
+C:\Users\ilhan\source\repos\API Kullanımı\bin\Debug\API Kullanımı.exe.config
+C:\Users\ilhan\source\repos\API Kullanımı\bin\Debug\API Kullanımı.exe
+C:\Users\ilhan\source\repos\API Kullanımı\bin\Debug\API Kullanımı.pdb
+C:\Users\ilhan\source\repos\API Kullanımı\obj\Debug\API Kullanımı.csprojAssemblyReference.cache
+C:\Users\ilhan\source\repos\API Kullanımı\obj\Debug\API_Kullanımı.Form1.resources
+C:\Users\ilhan\source\repos\API Kullanımı\obj\Debug\API_Kullanımı.Properties.Resources.resources
+C:\Users\ilhan\source\repos\API Kullanımı\obj\Debug\API Kullanımı.csproj.GenerateResource.cache
+C:\Users\ilhan\source\repos\API Kullanımı\obj\Debug\API Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\source\repos\API Kullanımı\obj\Debug\API Kullanımı.exe
+C:\Users\ilhan\source\repos\API Kullanımı\obj\Debug\API Kullanımı.pdb
+D:\Masaüstü\API Kullanımı\bin\Debug\API Kullanımı.exe.config
+D:\Masaüstü\API Kullanımı\bin\Debug\API Kullanımı.exe
+D:\Masaüstü\API Kullanımı\bin\Debug\API Kullanımı.pdb
+D:\Masaüstü\API Kullanımı\obj\Debug\API Kullanımı.csprojAssemblyReference.cache
+D:\Masaüstü\API Kullanımı\obj\Debug\API_Kullanımı.Form1.resources
+D:\Masaüstü\API Kullanımı\obj\Debug\API_Kullanımı.Properties.Resources.resources
+D:\Masaüstü\API Kullanımı\obj\Debug\API Kullanımı.csproj.GenerateResource.cache
+D:\Masaüstü\API Kullanımı\obj\Debug\API Kullanımı.csproj.CoreCompileInputs.cache
+D:\Masaüstü\API Kullanımı\obj\Debug\API Kullanımı.exe
+D:\Masaüstü\API Kullanımı\obj\Debug\API Kullanımı.pdb
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\bin\Debug\API Kullanımı.exe.config
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\bin\Debug\API Kullanımı.exe
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\bin\Debug\API Kullanımı.pdb
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\obj\Debug\API Kullanımı.csproj.AssemblyReference.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\obj\Debug\API_Kullanımı.Form1.resources
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\obj\Debug\API_Kullanımı.Properties.Resources.resources
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\obj\Debug\API Kullanımı.csproj.GenerateResource.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\obj\Debug\API Kullanımı.csproj.CoreCompileInputs.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\obj\Debug\API Kullanımı.exe
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\4.2 API Kullanımı\obj\Debug\API Kullanımı.pdb
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\bin\Debug\API Kullanımı.exe.config
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\bin\Debug\API Kullanımı.exe
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\bin\Debug\API Kullanımı.pdb
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\obj\Debug\API Kullanımı.csproj.AssemblyReference.cache
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\obj\Debug\API_Kullanımı.Form1.resources
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\obj\Debug\API_Kullanımı.Properties.Resources.resources
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\obj\Debug\API Kullanımı.csproj.GenerateResource.cache
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\obj\Debug\API Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\obj\Debug\API Kullanımı.exe
+C:\Users\ertug\OneDrive\Masaüstü\Görsel Programlama 2 YeniNot\11-API Kullanımı\obj\Debug\API Kullanımı.pdb

@@ -1,0 +1,13 @@
+D:\Masaüstü\DLL Uygulaması\bin\Debug\DLL Uygulaması.exe.config
+D:\Masaüstü\DLL Uygulaması\bin\Debug\DLL Uygulaması.exe
+D:\Masaüstü\DLL Uygulaması\bin\Debug\DLL Uygulaması.pdb
+D:\Masaüstü\DLL Uygulaması\bin\Debug\DLL Kütüphanesi.dll
+D:\Masaüstü\DLL Uygulaması\bin\Debug\DLL Kütüphanesi.pdb
+D:\Masaüstü\DLL Uygulaması\obj\Debug\DLL Uygulaması.csprojAssemblyReference.cache
+D:\Masaüstü\DLL Uygulaması\obj\Debug\DLL_Uygulaması.Form1.resources
+D:\Masaüstü\DLL Uygulaması\obj\Debug\DLL_Uygulaması.Properties.Resources.resources
+D:\Masaüstü\DLL Uygulaması\obj\Debug\DLL Uygulaması.csproj.GenerateResource.cache
+D:\Masaüstü\DLL Uygulaması\obj\Debug\DLL Uygulaması.csproj.CoreCompileInputs.cache
+D:\Masaüstü\DLL Uygulaması\obj\Debug\DLL Uygulaması.csproj.CopyComplete
+D:\Masaüstü\DLL Uygulaması\obj\Debug\DLL Uygulaması.exe
+D:\Masaüstü\DLL Uygulaması\obj\Debug\DLL Uygulaması.pdb
